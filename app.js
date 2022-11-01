@@ -1,4 +1,7 @@
 /* Imports */
+const shellButtonOne = document.getElementById('shell-button-one');
+const shellButtonTwo = document.getElementById('shell-button-two');
+const shellButtonThree = document.getElementById('shell-button-three');
 
 /* Get DOM Elements */
 
