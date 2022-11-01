@@ -33,3 +33,11 @@ header .logo {
 main {
     padding: 20px;
 }
+
+.left-shell {
+    position: relative;
+    right: auto;
+}
+
+* {
+}
