@@ -33,3 +33,48 @@ header .logo {
 main {
     padding: 20px;
 }
+
+.shells {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+
+.shell img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    position: relative;
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
+    z-index: 20;
+}
+
+#pearl {
+    z-index: 10;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(245, 233, 220);
+    border-radius: 50%;
+    box-shadow: 5px -2px 5px rgba(113, 112, 112, 0.6);
+    margin: 10px;
+    top: 250px;
+}
+
+.reveal {
+    transform: translateY(-100px);
+}
+
+.stat {
+    padding-right: 5rem;
+}
+
+button {
+    margin-right: 2rem;
+}
+
+#Welcome {
+    position: center;
+}
