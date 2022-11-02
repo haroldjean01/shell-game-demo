@@ -75,5 +75,5 @@ function displayResults() {
     lossesEl.textContent = total - wins;
     totalEl.textContent = total;
 }
-
+// just commenting for commit
 // (don't forget to call any display functions you want to run on page load!)
