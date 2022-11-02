@@ -27,4 +27,4 @@ On clicking a hiding place button, the total number of guesses increment 2
 
 [x]displayResults function for displaying the updated state 3
 
-[x]reset function for resetting the styles that display the correct location 3 asdfas
+[x]reset function for resetting the styles that display the correct location 3
