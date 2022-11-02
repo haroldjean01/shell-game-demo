@@ -34,15 +34,6 @@ main {
     padding: 20px;
 }
 
-.left-shell {
-}
-
-.middle-shell {
-}
-
-.right-shell {
-}
-
 .shells {
     flex-direction: row;
     display: flex;
